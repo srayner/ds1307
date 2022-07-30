@@ -10,6 +10,8 @@ leap year. The clock operates in either the 24-hour or 12-hour format with AM/PM
 DS1307 has a built-in power sense circuit that detects power failures and automatically switches to the
 battery supply.
 
+![Circuit Board](http://github.com/srayner/ds1307/DS1307.png)
+
 ## Videos
 
 Youtube videos here:
