@@ -14,5 +14,5 @@ battery supply.
 
 Youtube videos here:
 
-Part 1 https://youtu.be/5Bkmtt8jV2Q
-Part 2 https://youtu.be/17UcTrbp2TM
+- Part 1 https://youtu.be/5Bkmtt8jV2Q
+- Part 2 https://youtu.be/17UcTrbp2TM
